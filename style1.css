@@ -1,0 +1,55 @@
+.card{
+ 
+  height:auto;
+  margin-top: 160px;
+  background-color:rgb(201, 191, 191) ;
+  padding: 12px;
+}
+
+.login{
+  
+  text-align: center;
+  cursor:pointer;
+  border:none;
+  padding: 16px 30px;
+
+}
+/* .container {
+
+  width:50%;
+  height:100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} 
+
+  */
+
+/* .center {
+  margin: 0;
+  top: 85%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+ 
+} */
+
+
+/* @media screen and (max-width: 300px) {
+  span.psw {
+     display: block;
+     float: none;
+  }
+} */
+
+.login{
+  
+  padding:25px;
+} 
+
+span.psw{
+  float:right;
+  display: block;
+
+}
+  

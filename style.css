@@ -1,0 +1,49 @@
+.form-container{
+
+    /* width:50%; */
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.form-check-input
+{
+    color:white;
+}
+
+.b{
+    text-decoration: solid;
+    color:crimson;
+}
+
+.form-control{
+    font-family: Mukta;
+    text-rendering: auto;
+}
+
+.form-card{
+    /* width:100%;  */
+    height:80%;
+    padding:3%;
+    left:1%;
+    right:5%;
+    box-sizing: border-box;
+    background-color: rgb(198, 191, 191);
+}
+
+.center{
+      margin: 0;
+      top:70%;
+      left:50%;
+      right:40%;
+      /* width:30px; */
+       width:100px;
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+    }
+
+
+
+
+
